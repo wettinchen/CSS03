@@ -16,7 +16,7 @@ https://www.youtube.com/@DaveGrayTeachesCode
         教學影片固定的開頭
 
 ###  2. Welcome
-        歡迎觀眾
+        歡迎觀眾，說明工具與資料位置
 
 ###  3. Setup <Code更動>
         初始設定說明
